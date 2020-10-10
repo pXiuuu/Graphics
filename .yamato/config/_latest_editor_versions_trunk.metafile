@@ -41,7 +41,7 @@ editor_versions:
       version: ''
   trunk_staging:
     android:
-      revision: eff81b68729d5bf0cf8ed734dd9bdd07b253b643
+      revision: bffc1cc3dea5e866759d73222b9df392979b75cb
       version: ''
     ios:
       revision: eff81b68729d5bf0cf8ed734dd9bdd07b253b643
@@ -53,5 +53,5 @@ editor_versions:
       revision: eff81b68729d5bf0cf8ed734dd9bdd07b253b643
       version: ''
     windows:
-      revision: eff81b68729d5bf0cf8ed734dd9bdd07b253b643
+      revision: bffc1cc3dea5e866759d73222b9df392979b75cb
       version: ''
